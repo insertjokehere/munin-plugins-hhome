@@ -1,0 +1,4 @@
+munin-plugins-hhome/*
+munin-plugins-hhome.debhelper.log
+munin-plugins-hhome.substvars
+debhelper-build-stamp
