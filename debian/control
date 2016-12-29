@@ -3,7 +3,7 @@ Section: main
 Priority: extra
 Maintainer: Will Hughes (aka William Hughes) <will@willhughes.name>
 Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.7
 Homepage: http://repo.hhome.me/
 #Vcs-Git: git://git.debian.org/collab-maint/ca-certificates-hhome.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/ca-certificates-hhome.git;a=summary
