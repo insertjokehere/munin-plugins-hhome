@@ -1,3 +1,9 @@
+munin-plugins-hhome (2.0) unstable; urgency=medium
+
+  * Install acng plugin from munin contrib
+
+ -- Will Hughes (aka William Hughes) <will@willhughes.name>  Mon, 10 Jul 2017 10:22:16 +1200
+
 munin-plugins-hhome (1.0) unstable; urgency=low
 
   * Initial Release.
