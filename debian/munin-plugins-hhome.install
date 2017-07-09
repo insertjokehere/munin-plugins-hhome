@@ -1,1 +1,2 @@
 rabbitmq/rabbitmq_* usr/share/munin/plugins/
+contrib/plugins/apt/acng usr/share/munin/plugins/acng
